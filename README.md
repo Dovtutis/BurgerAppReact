@@ -4,6 +4,8 @@ REACT Burger Builder application which allows to build custom burger by selectin
 
 Tasks and funcionalities which were accomplished/used in this project:
 - Multiple dynamic class and function based components with state.
+- Routing.
+- Customer form with validation.
 - HOC components.
 - Component lifecycle methods.
 - CSS modules.
